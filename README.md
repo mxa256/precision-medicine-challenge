@@ -16,10 +16,3 @@ You are provided with a CSV containing simulated patient data with which to addr
 
 ## Prompt
 Which patients with condition D1 would you recommend be given treatment W to reduce their risk of outcome Y1? 
-
-## Submission
-Push your solution to a private GitHub repo.
-
-Add `gregorywatson` to the repository.
-
-Include the link to your private GitHub repo in the associated screening question when you apply to the active job posting.
